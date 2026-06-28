@@ -1,0 +1,28 @@
+.team {
+    background-color: #f4f4fd;
+    text-align: center;
+}
+.team-title {
+    font-weight: 700;
+    font-size: 36px;
+    color: #212121;
+}
+
+.team-list {
+
+    list-style: none;
+    justify-content: center;
+}
+
+.team-item {
+    background-color: #ffffff;
+}
+
+.member-name {
+    color:#757575
+}
+
+.member-position {
+    font-size: 16px;
+    color: #757575;
+}

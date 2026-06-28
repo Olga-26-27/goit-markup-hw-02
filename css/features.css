@@ -1,0 +1,13 @@
+.features-list {
+    list-style: none;
+}
+
+.features-title {
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+}
+
+.features-text {
+    font-family: 'Roboto', sans-serif;
+    color: #757575;
+}

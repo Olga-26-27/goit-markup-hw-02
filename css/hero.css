@@ -1,0 +1,25 @@
+.hero {
+    background-color: #2f303a;
+    color: #fff;
+    text-align: center;
+}
+.hero-title {
+    font-size: 44px;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+font-weight: 900;
+font-size: 44px;
+}
+
+.hero-btn {
+    background-color: #2196f3;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+    background-color: #188ce8;
+}
