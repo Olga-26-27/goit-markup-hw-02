@@ -1,8 +1,12 @@
+
 .portfolio-section {
    background-color: #ffffff;
+   text-align: center;
 }
-.portfolio-list {
 
+.portfolio-list {
     list-style: none;
 
+    column-gap: 24px;
+    row-gap: 48px;
 }
